@@ -1,6 +1,6 @@
 # spotifai
 
-A new Flutter project.
+[API IS DOWN]
 
 ## Getting Started
 
